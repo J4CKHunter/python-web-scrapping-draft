@@ -2,7 +2,7 @@
 
 - [ ] web app
 
-- [ ] get links from webpage
+- [x] get links from webpage
 
 - [x] calculate term frequency (TF)
 - [x] calculate inverse document frequency (IDF)
