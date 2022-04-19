@@ -1,5 +1,9 @@
 ### web app with python - FLASK? DJANGO ? 
 
+draft project in which the given problems are solved separately.
+web app will be implemented after the decision is made about using flask or django framework.
+
+
 - [ ] web app
 - [x] calculate term frequency (TF)
 - [x] calculate inverse document frequency (IDF)
