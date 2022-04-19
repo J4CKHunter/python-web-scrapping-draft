@@ -1,7 +1,7 @@
-### web app with python - FLASK? DJANGO ? 
+### web app with python using FLASK? or DJANGO ? 
 
-draft project in which the given problems are solved separately.
-web app will be implemented after the decision is made about using flask or django framework.
+this is the draft project in which the given problems are solved separately.\
+web app will be implemented after the decision is made about using flask or django framework.\
 
 
 - [ ] web app
